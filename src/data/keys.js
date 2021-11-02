@@ -1,0 +1,106 @@
+const keys=[
+    {
+        label:'(',
+        value:' ( ',
+        type:'input'
+    },
+    {
+        label:'CE',
+        value:'ce',
+        type:'fun'
+    },
+    {
+        label:')',
+        value:' ) ',
+        type:'input'
+    },
+    {
+        label:'C',
+        value:'c',
+        type:'fun'
+    },
+    {
+        label:'1',
+        value:'1',
+        type:'input'
+    },
+    {
+        label:'2',
+        value:'2',
+        type:'input'
+    },
+    {
+        label:'3',
+        value:'3',
+        type:'input'
+    },
+    {
+        label:'+',
+        value:' + ',
+        type:'input'
+    },
+    {
+        label:'4',
+        value:'4',
+        type:'input'
+    },
+    {
+        label:'5',
+        value:'5',
+        type:'input'
+    },
+    {
+        label:'6',
+        value:'6',
+        type:'input'
+    },
+    {
+        label:'-',
+        value:' - ',
+        type:'input'
+    },
+    {
+        label:'7',
+        value:'7',
+        type:'input'
+    },
+    {
+        label:'8',
+        value:'8',
+        type:'input'
+    },
+    {
+        label:'9',
+        value:'9',
+        type:'input'
+    },
+    {
+        label:'×',
+        value:' * ',
+        type:'input'
+    },
+    {
+        label:'.',
+        value:'.',
+        type:'input'
+    },
+    {
+        label:'0',
+        value:'0',
+        type:'input'
+    },
+    {
+        label:'=',
+        value:'=',
+        type:'fun'
+    },
+    {
+        label:'÷',
+        value:' / ',
+        type:'input'
+    },
+]
+
+module.exports = {
+    keys
+}
